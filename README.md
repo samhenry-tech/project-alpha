@@ -10,22 +10,6 @@ A modern React application built with Vite, TypeScript, and Tailwind CSS 4, foll
 - 📘 **TypeScript** - Type-safe development
 - 🏗️ **Atomic Design** - Organized component structure
 
-## Project Structure
-
-```
-src/
-├── components/
-│   ├── atoms/          # Basic building blocks (Button, Input, Typography)
-│   ├── molecules/      # Simple component groups (Card, SearchBar)
-│   ├── organisms/      # Complex components (Header, Footer)
-│   └── pages/          # Page components (HomePage)
-├── types/              # TypeScript type definitions
-├── utils/              # Utility functions
-├── App.tsx             # Main app component
-├── main.tsx            # Application entry point
-└── index.css           # Global styles with Tailwind
-```
-
 ## Getting Started
 
 ### Install Dependencies
