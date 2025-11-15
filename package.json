@@ -1,5 +1,5 @@
 {
-  "name": "project-alpha",
+  "name": "{{ repo | downcase }}",
   "version": "0.0.0",
   "private": true,
   "type": "module",

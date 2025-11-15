@@ -1,4 +1,4 @@
-# Project Alpha
+# {{ description }}
 
 A modern React application built with Vite, TypeScript, and Tailwind CSS 4, following atomic design principles.
 
