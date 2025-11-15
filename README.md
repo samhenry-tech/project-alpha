@@ -58,4 +58,3 @@ npm run preview
 - **Molecules**: Simple combinations of atoms (search bar, card)
 - **Organisms**: Complex UI components (header, footer, forms)
 - **Pages**: Specific page implementations
-
