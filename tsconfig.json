@@ -1,0 +1,11 @@
+{
+  "extends": "@samhenrytech/eslint-config/tsconfig.base.json",
+  "compilerOptions": {
+    /* Path aliases */
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": ["src"]
+}
