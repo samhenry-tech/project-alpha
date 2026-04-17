@@ -1,0 +1,9 @@
+{
+  "delimiter": "%%",
+  "variables": [
+    {
+      "variableName": "projectName",
+      "question": "What is the name of your project?"
+    }
+  ]
+}
