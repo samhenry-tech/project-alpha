@@ -1,5 +1,7 @@
 export const Header = () => (
   <header className="flex w-full items-center border-b border-gray-200 p-4">
-    <h1 className="text-sam-green text-2xl font-semibold">%% projectName.capitalise %%</h1>
+    <h1 className="text-sam-green text-2xl font-semibold">
+      %% projectName.Sentence Case %%
+    </h1>
   </header>
 );

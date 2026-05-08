@@ -1,4 +1,4 @@
-# {{ projectName.capitalise }}
+# %% projectName.Sentence Case %%
 
 A modern React application built with Vite, TypeScript, and Tailwind CSS 4, following atomic design principles.
 
